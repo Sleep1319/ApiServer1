@@ -61,4 +61,5 @@ public class PostController {
     public Response readAll(@Valid PostReadCondition cond) {
         return Response.success(postService.readAll(cond));
 
+    }
 }

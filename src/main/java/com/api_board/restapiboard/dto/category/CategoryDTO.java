@@ -1,11 +1,10 @@
-package com.api_board.restapiboard.dto;
+package com.api_board.restapiboard.dto.category;
 
 import com.api_board.restapiboard.domain.category.Category;
 import com.api_board.restapiboard.helper.NestedConvertHelper;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import net.bytebuddy.pool.TypePool;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.api_board.restapiboard.service;
 
 import com.api_board.restapiboard.domain.category.Category;
-import com.api_board.restapiboard.dto.CategoryDTO;
+import com.api_board.restapiboard.dto.category.CategoryDTO;
 import com.api_board.restapiboard.dto.category.CategoryCreateRequest;
 import com.api_board.restapiboard.exception.CategoryNotFoundException;
 import com.api_board.restapiboard.repository.CategoryRepository;

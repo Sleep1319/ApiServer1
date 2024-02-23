@@ -1,7 +1,6 @@
 package com.api_board.restapiboard.repository;
 
 import com.api_board.restapiboard.domain.post.Post;
-import com.api_board.restapiboard.dto.post.CustomPostRepository;
 import com.api_board.restapiboard.dto.post.PostReadCondition;
 import com.api_board.restapiboard.dto.post.PostSimpleDTO;
 import com.querydsl.core.BooleanBuilder;
